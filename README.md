@@ -6,6 +6,6 @@ The main goal of this project was to combine clean,semantic structure with moder
 
 ## **Used technologies** ##
 
-►**HTML5** <br>
-►**CSS3** <br>
+►**HTML** <br>
+►**CSS** <br>
 ►**JAVASCRIPT** <br>
